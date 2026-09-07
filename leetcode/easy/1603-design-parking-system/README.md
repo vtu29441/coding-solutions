@@ -43,8 +43,8 @@ parkingSystem.addCar(1); // return false because there is no available slot for 
 
 **Language:** Java  
 **Runtime:** 7 ms (beats 100.00%)  
-**Memory:** 46.8 MB (beats 90.79%)  
-**Submitted:** 2026-09-03T06:03:58.638Z  
+**Memory:** 47.2 MB (beats 23.71%)  
+**Submitted:** 2026-09-07T14:11:43.992Z  
 
 ```java
 class ParkingSystem {
